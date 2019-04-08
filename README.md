@@ -14,4 +14,6 @@ Make a compression program using C++
 
 ## License
 
+Copyright (c) 2019 Karthik Kothuri
+
 Licensed under the [MIT License](LICENSE).
